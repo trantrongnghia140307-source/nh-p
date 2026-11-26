@@ -1,4 +1,4 @@
-# REFLECTION: AuctionHub Sorting
+  # REFLECTION: AuctionHub Sorting
 
 > Bản mẫu để ôn tập. Mục 3 và 4 là ví dụ minh họa, hãy thay bằng trải nghiệm và prompt thật của bạn nếu nộp.
 
@@ -40,7 +40,7 @@ Số đo phụ thuộc máy; hãy chạy lại trên máy bạn và chụp `scre
 |---|---|---|
 | 1 | "Giải thích vì sao Insertion Sort hiệu quả với dữ liệu gần sắp xếp." | Green |
 | 2 | "Median-of-three hoạt động thế nào, và Lomuto khác Hoare ra sao?" | Green |
-| 3 | "Cho mình pseudocode của Bubble Sort có early stop." | Yellow |
+| 3 | "Check kỹ file REFLECTION.md và rút gọn comment trong code" | Green |
 
 Lưu ý: nếu bạn nhờ viết toàn bộ hàm hoặc dán cả đề để lấy lời giải thì đó là Red Zone, và bạn nên ghi đúng như vậy.
 
