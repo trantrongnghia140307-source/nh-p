@@ -42,7 +42,7 @@ Số đo phụ thuộc máy; hãy chạy lại trên máy bạn và chụp `scre
 | 2 | "Median-of-three hoạt động thế nào, và Lomuto khác Hoare ra sao?" | Green |
 | 3 | "Check kỹ file REFLECTION.md và rút gọn comment trong code" | Green |
 
-Lưu ý: nếu bạn nhờ viết toàn bộ hàm hoặc dán cả đề để lấy lời giải thì đó là Red Zone, và bạn nên ghi đúng như vậy.
+
 
 ## 5. Worst-case của Quick Sort với median-of-three
 
